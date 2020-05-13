@@ -60,6 +60,12 @@ print ("dict['Age']: ", dict['Age'])
 print ("dict['School']: ", dict['School'])
 {% endhighlight %}
 
+### Penggunaan for untuk Dictionary
+for key,value in dict.items:
+     print(key + "-" +value)
+
+Python menyertakan method built-in sebagai berikut :
+
 ### Fungsi Build-in Pada Dictionary Python
 
 Python menyertakan fungsi built-in sebagai berikut :
